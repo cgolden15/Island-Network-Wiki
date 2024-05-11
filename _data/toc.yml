@@ -7,15 +7,11 @@
       url: "docs/getting-started#development"
     - title: Customization
       url: "docs/getting-started#customization"
-- title: "Extras"
-  url: "docs/extras"
+- title: "OP Prison"
+  url: "docs/prison"
   children:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Discussion Forum
-      url: "forum"
-    - title: Interactive Code
-      url: "docs/extras/interactive"
+    - title: Basics
+      url: "docs/prison/index"
 - title: "About"
   url: "about"
 - title: "Updates"
