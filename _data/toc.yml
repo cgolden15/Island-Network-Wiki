@@ -18,5 +18,8 @@
       url: "docs/extras/interactive"
 - title: "About"
   url: "about"
-- title: "News"
-  url: "news"
+- title: "Updates"
+  url: "updates"
+  children:
+    - title: OP Prison
+      url: "updates/op-prison"

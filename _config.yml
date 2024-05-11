@@ -14,42 +14,42 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MkDocs Documentation Jekyll
+title: The Island Network Wiki 
 email: your-email@domain.com
-author: Dinosaur Avocado
+author: Golden8008
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Island Network Documentation is a collection of resources for the Island Network. 
+  It is a work in progress and will be updated as needed.
+  play.theislandsnetwork.com
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
-baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://IslandNetwork.cgolden15.github.io/" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/mkdocs-jekyll"
-github_user: "vsoch"
-github_repo: "mkdocs-jekyll"
+repo: "https://github.com/cgolden15/Island-Network-Wiki"
+github_user: " cgolden15"
+github_repo: "wiki"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+# twitter: vsoch
+# linkedin: vsochat
+# dockerhub: vanessa
 # google-analytics: G-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
-color: "#8c1515" # primary color for header, buttons
+color: "#4287f5" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
 
 # If you add tags to pages, you can link them to some external search
 # If you want to disable this, comment the URL.
-tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
+# tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
 tag_color: danger # danger, success, warning, primary, info, secondary
 
 # Add a page at /forum to list a set of discourse topics. The site needs
