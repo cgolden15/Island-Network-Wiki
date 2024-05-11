@@ -24,8 +24,8 @@ As you prestige, you will unlock new blocks in the mine. These blocks are worth 
 - Prestige 25 --> Emerald Blocks
 - Prestige 50 --> Netherite Blocks
 - Prestige 75 --> Amethyst Blocks
-- Prestige 100 --> End Stone
+- Prestige 90 --> End Stone
 
 ## Custom Enchants
 
-On the Island Network, we have a fully custom enchant system for everything from pickaxes to armor. You can view and buy the enchants in game by typing /ce while holding a tool! Some of the enchants include Token Booster, Keys, 
+On the Island Network, we have a fully custom enchant system for everything from pickaxes to armor. You can view and buy the enchants in game by typing /ce while holding a tool! Some of the enchants include Token Booster, Keys, Auto repair and even up to Fortune 5000! 
