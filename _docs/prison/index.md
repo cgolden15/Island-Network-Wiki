@@ -28,4 +28,13 @@ As you prestige, you will unlock new blocks in the mine. These blocks are worth 
 
 ## Custom Enchants
 
-On the Island Network, we have a fully custom enchant system for everything from pickaxes to armor. You can view and buy the enchants in game by typing /ce while holding a tool! Some of the enchants include Token Booster, Keys, Auto repair and even up to Fortune 5000! 
+On the Island Network, we have a fully custom enchant system for everything from pickaxes to armor. You can view and buy the enchants in game by typing /ce while holding a tool! Some of the enchants include Token Booster, Keys, Auto repair and even up to Fortune 5000! You can purchace these enchants with etokens, which can be earned in a few ways, the simplest being mining blocks in the mine. By upgrading your "tokens" enchant, you can earn more etokens per block mined!
+
+The most commonly reccomened first enchants are as follows:
+1. Tokens
+2. Lucky blocks
+3. Keys
+4. Containers 
+5. Fortune
+
+You do not need to max these enchants out in order, but mixing them in with your other enchants will help you progress faster.
