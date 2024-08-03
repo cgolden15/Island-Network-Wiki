@@ -45,3 +45,40 @@ We reserve the right to terminate or suspend access to the Bot at any time, with
 9. Contact
 If you have any questions about these Terms, please contact Golden8008.
 
+# Privacy Policy 
+
+Privacy Policy for Island Network Manager
+1. Introduction
+Welcome to the Island Network Discord server. This Privacy Policy explains how Island Network Manager ("the Bot") collects, uses, and protects your information when you use the Bot. By using the Bot, you agree to the collection and use of information in accordance with this policy.
+
+2. Information Collection and Use
+The Bot collects the following types of information to provide and improve its services:
+
+2.1 User Information
+Usernames and User IDs: We collect the usernames and user IDs of server administrators who interact with the Bot.
+2.2 Content Information
+Messages and Content: We collect messages and content created through the Bot, such as announcements and poll data.
+3. Use of Information
+The information we collect is used to:
+
+Provide and operate the Bot’s features
+Improve and enhance the Bot's functionality
+Monitor and analyze usage and trends to improve the user experience
+4. Data Sharing and Disclosure
+We do not share, sell, or disclose your information with third parties, except in the following circumstances:
+
+Legal Requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or government agency).
+5. Data Security
+We take the security of your information seriously and use reasonable measures to protect it from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or method of electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+6. Data Retention
+We retain your information only for as long as necessary to provide the Bot’s services and fulfill the purposes outlined in this Privacy Policy. We will also retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+7. Your Rights
+As a user, you have the following rights regarding your information:
+
+Access: You can request access to the information we hold about you.
+Correction: You can request that we correct any inaccurate or incomplete information.
+Deletion: You can request that we delete your information, subject to certain legal limitations.
+8. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the server. You are advised to review this Privacy****
